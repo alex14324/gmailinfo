@@ -2,7 +2,7 @@
 Installation
 
 Clone repository
-git clone https://gitlab.com/kennbroorg/iKy.git
+git clone https://gitlab.com/alex14324/gmailinfo.git
 
 Install Backend
 
