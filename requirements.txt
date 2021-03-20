@@ -29,7 +29,7 @@ grequests==0.4.0
 httplib2==0.11.3
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==2.11.3
 kombu==4.6.3
 lxml==4.1.1
 MarkupSafe==1.0
